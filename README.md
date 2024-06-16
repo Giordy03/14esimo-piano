@@ -35,6 +35,7 @@ genres, including puzzle, arcade, action, adventure, and racing, ensuring
 there's something for every gaming preference.
 
 ## Installation
+The app is avaible only for phone running Android 10 or newer versions.
 To install the Retro Game Collection App on your Android device, follow these 
 steps:
 
